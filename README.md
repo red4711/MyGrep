@@ -3,4 +3,6 @@ An implementation of the GREP program used in UNIX systems. My GREP imploys mult
 
 Usage: <br />
 Build the file using the provided makefile <br />
-Run the binary file passing in the target search pattern and file/directory | example: search printf ./file.cpp
+Run the binary file passing in the target search pattern and file/directory | example: search printf ./file.cpp <br />
+
+![DEMO](./doc/demo.gif)
